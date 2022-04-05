@@ -4,3 +4,4 @@ Each UI view has its own FXML file and associated Controller Class file.
 
 Library.txt is the main point of information for this program. If it does not exist, it will be created when necessary such as when adding library items.
 
+All output for this is done in its own UI using JavaFX.
